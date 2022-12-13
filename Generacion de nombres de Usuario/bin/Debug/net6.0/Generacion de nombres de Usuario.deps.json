@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Generacion de nombres de Usuario/1.0.0": {
+        "runtime": {
+          "Generacion de nombres de Usuario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Generacion de nombres de Usuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
